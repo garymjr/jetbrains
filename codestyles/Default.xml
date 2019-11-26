@@ -5,6 +5,7 @@
       <option name="TAB_SIZE" value="2" />
     </value>
   </option>
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
