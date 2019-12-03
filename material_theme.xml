@@ -9,13 +9,12 @@
     <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="statusBarTheme" value="false" />
     <option name="settingsSelectedTab" value="6" />
     <option name="tabsHeight" value="20" />
     <option name="accentColor" value="009688" />
     <option name="userId" value="-347c2beb:16e6f8c60bc:-8000" />
-    <option name="version" value="4.5.2" />
+    <option name="version" value="4.10.0" />
   </component>
 </application>
