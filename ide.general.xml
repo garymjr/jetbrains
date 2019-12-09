@@ -15,5 +15,6 @@
     <entry key="performance.watcher.unresponsive.interval.ms" value="1000" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.tree.ui.experimental" value="false" />
+    <entry key="ide.intellij.laf.enable.animation" value="true" />
   </component>
 </application>
